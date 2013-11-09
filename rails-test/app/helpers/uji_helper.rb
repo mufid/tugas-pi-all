@@ -1,0 +1,2 @@
+module UjiHelper
+end
